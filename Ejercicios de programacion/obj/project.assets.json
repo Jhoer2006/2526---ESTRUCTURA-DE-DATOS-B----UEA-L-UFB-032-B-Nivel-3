@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj",
-      "projectName": "AgendaTelefonica",
-      "projectPath": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj",
+      "projectUniqueName": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\Ejercicios de programacion\\Ejercicios de programacion.csproj",
+      "projectName": "Ejercicios de programacion",
+      "projectPath": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\Ejercicios de programacion\\Ejercicios de programacion.csproj",
       "packagesPath": "C:\\Users\\Alienware\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\obj\\",
+      "outputPath": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\Ejercicios de programacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alienware\\AppData\\Roaming\\NuGet\\NuGet.Config"

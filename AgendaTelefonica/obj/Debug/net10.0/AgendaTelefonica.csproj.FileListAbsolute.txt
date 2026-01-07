@@ -1,0 +1,15 @@
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.exe
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.deps.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.runtimeconfig.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\bin\Debug\net10.0\AgendaTelefonica.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.AssemblyInfo.cs
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.sourcelink.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\refint\AgendaTelefonica.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\AgendaTelefonica.genruntimeconfig.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AgendaTelefonica\obj\Debug\net10.0\ref\AgendaTelefonica.dll

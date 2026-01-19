@@ -1,0 +1,15 @@
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\bin\Debug\net10.0\Torres de Hanoi con pilas.exe
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\bin\Debug\net10.0\Torres de Hanoi con pilas.deps.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\bin\Debug\net10.0\Torres de Hanoi con pilas.runtimeconfig.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\bin\Debug\net10.0\Torres de Hanoi con pilas.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\bin\Debug\net10.0\Torres de Hanoi con pilas.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.AssemblyInfoInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.AssemblyInfo.cs
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.sourcelink.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\refint\Torres de Hanoi con pilas.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\Torres de Hanoi con pilas.genruntimeconfig.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Torres de Hanoi con pilas\obj\Debug\net10.0\ref\Torres de Hanoi con pilas.dll

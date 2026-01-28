@@ -1,0 +1,15 @@
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\bin\Debug\net10.0\AsignacionAsientos.exe
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\bin\Debug\net10.0\AsignacionAsientos.deps.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\bin\Debug\net10.0\AsignacionAsientos.runtimeconfig.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\bin\Debug\net10.0\AsignacionAsientos.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\bin\Debug\net10.0\AsignacionAsientos.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.AssemblyInfoInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.AssemblyInfo.cs
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.sourcelink.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\refint\AsignacionAsientos.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\AsignacionAsientos.genruntimeconfig.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\AsignacionAsientos\obj\Debug\net10.0\ref\AsignacionAsientos.dll

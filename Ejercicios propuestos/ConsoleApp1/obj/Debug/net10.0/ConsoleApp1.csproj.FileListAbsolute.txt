@@ -1,0 +1,15 @@
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Ejercicios propuestos\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

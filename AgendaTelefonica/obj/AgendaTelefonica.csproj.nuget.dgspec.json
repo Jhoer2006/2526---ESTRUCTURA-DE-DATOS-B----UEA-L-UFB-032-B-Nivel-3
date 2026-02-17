@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AuraTec\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj": {}
+    "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AuraTec\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj": {
+    "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AuraTec\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj",
+        "projectUniqueName": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj",
         "projectName": "AgendaTelefonica",
-        "projectPath": "C:\\Users\\AuraTec\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj",
-        "packagesPath": "C:\\Users\\AuraTec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AuraTec\\Documents\\GitHub\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\obj\\",
+        "projectPath": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\AgendaTelefonica.csproj",
+        "packagesPath": "C:\\Users\\Alienware\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alienware\\Documents\\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\\AgendaTelefonica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AuraTec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alienware\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

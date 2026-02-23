@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\bin\Debug\net10.0\VacunacionCOVID.exe
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\bin\Debug\net10.0\VacunacionCOVID.deps.json
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\bin\Debug\net10.0\VacunacionCOVID.runtimeconfig.json
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\bin\Debug\net10.0\VacunacionCOVID.dll
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\bin\Debug\net10.0\VacunacionCOVID.pdb
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.AssemblyInfo.cs
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.sourcelink.json
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.dll
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\refint\VacunacionCOVID.dll
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.pdb
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\VacunacionCOVID.genruntimeconfig.cache
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Vacunación Covid\VacunacionCOVID\obj\Debug\net10.0\ref\VacunacionCOVID.dll

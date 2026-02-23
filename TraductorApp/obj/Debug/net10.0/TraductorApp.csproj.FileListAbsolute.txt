@@ -1,0 +1,15 @@
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\bin\Debug\net10.0\TraductorApp.exe
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\bin\Debug\net10.0\TraductorApp.deps.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\bin\Debug\net10.0\TraductorApp.runtimeconfig.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\bin\Debug\net10.0\TraductorApp.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\bin\Debug\net10.0\TraductorApp.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.AssemblyInfoInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.AssemblyInfo.cs
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.sourcelink.json
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\refint\TraductorApp.dll
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.pdb
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\TraductorApp.genruntimeconfig.cache
+C:\Users\Alienware\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\TraductorApp\obj\Debug\net10.0\ref\TraductorApp.dll

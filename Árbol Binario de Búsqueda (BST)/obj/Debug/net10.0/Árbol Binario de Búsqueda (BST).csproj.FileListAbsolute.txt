@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\bin\Debug\net10.0\Árbol Binario de Búsqueda (BST).exe
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\bin\Debug\net10.0\Árbol Binario de Búsqueda (BST).deps.json
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\bin\Debug\net10.0\Árbol Binario de Búsqueda (BST).runtimeconfig.json
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\bin\Debug\net10.0\Árbol Binario de Búsqueda (BST).dll
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\bin\Debug\net10.0\Árbol Binario de Búsqueda (BST).pdb
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).AssemblyInfo.cs
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).sourcelink.json
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).dll
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\refint\Árbol Binario de Búsqueda (BST).dll
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).pdb
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\Árbol Binario de Búsqueda (BST).genruntimeconfig.cache
+C:\Users\Dell\Documents\2526---ESTRUCTURA-DE-DATOS-B----UEA-L-UFB-032-B-Nivel-3\Árbol Binario de Búsqueda (BST)\obj\Debug\net10.0\ref\Árbol Binario de Búsqueda (BST).dll
